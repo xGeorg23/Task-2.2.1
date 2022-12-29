@@ -53,7 +53,7 @@ public class User {
    @Override
    public String toString() {
       return "Person " + getId()
-              + " " +getEmail()
+              + " " + getEmail()
               + " " + getFirstName()
               + " " + getLastName()
               + " " + getCar();
